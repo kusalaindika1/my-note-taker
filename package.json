@@ -1,0 +1,22 @@
+{
+  "name": "my-note-taker",
+  "version": "1.0.0",
+  "description": "note-taker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusalaindika1/my-note-taker.git"
+  },
+  "author": "kusal liyanage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kusalaindika1/my-note-taker/issues"
+  },
+  "homepage": "https://github.com/kusalaindika1/my-note-taker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
