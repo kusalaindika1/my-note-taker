@@ -20,3 +20,12 @@
 
 ![](image/123.png)
 ![](image/1234.png)
+
+
+# heroku deploy link
+https://my-note-taker-12.herokuapp.com/
+
+
+# GitHub repository link
+https://github.com/kusalaindika1/my-note-taker
+
